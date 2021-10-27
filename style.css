@@ -13,3 +13,7 @@ h3 {
 main {
    text-align: center;
 }
+
+img {
+   border-radius: 15% 15% 15% 15%;
+}
